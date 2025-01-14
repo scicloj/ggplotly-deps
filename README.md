@@ -50,4 +50,6 @@ loaded via a namespace (and not attached):
 
 # License
 
+Copyright © 2025 Scicloj
+
 MIT License
